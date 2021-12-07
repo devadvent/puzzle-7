@@ -17,6 +17,8 @@ The affected gifts are in the [src/data/gifts.js](src/data/gifts.js) file - an a
 Complete the function `matchedNames` that returns an array of possible names that match the smudged name (counter-checking with [names.js](src/data/names.js)).
 Examples: `Anthon#` = `['Anthony']`, `Helen#` = `['Helena', 'Helene']`
 
+💡 Hint: [Regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+
 ### Rules:
 
 -   The answer always needs to be an array
